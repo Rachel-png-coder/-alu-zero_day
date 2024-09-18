@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 echo "School" echo "The school is open!"
+=======
+echo "School" echo "The sschool is open!"
+>>>>>>> bbf5ade110115d54f1a90c0d0bc7126b12121b89
 
